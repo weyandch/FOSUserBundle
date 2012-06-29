@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace FOS\UserBundle\Document;
+namespace FOS\UserBundle\CouchDocument;
 
 use FOS\UserBundle\Model\User as AbstractUser;
 
