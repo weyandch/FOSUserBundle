@@ -14,7 +14,7 @@
         <field name="locked" fieldName="locked" type="mixed" />
         <field name="expired" fieldName="expired" type="mixed" />
         <field name="expiresAt" fieldName="expiresAt" type="datetime" />
-        <field name="confirmationToken" fieldName="confirmationToken" type="string" />
+        <field name="confirmationToken" fieldName="confirmationToken" type="string" index="true" />
         <field name="passwordRequestedAt" fieldName="passwordRequestedAt" type="datetime" />
         <field name="roles" fieldName="roles" type="mixed" />
 
